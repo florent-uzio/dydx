@@ -1,0 +1,19 @@
+{
+  "name": "dydx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^3.2.4",
+    "prettier-plugin-organize-imports": "^3.2.4"
+  },
+  "dependencies": {
+    "@dydxprotocol/v4-client-js": "^1.0.17"
+  }
+}
