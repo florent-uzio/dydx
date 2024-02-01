@@ -16,6 +16,7 @@
     "typescript": "^5.3.3"
   },
   "dependencies": {
-    "@dydxprotocol/v4-client-js": "^1.0.17"
+    "@dydxprotocol/v4-client-js": "^1.0.17",
+    "lodash": "^4.17.21"
   }
 }
